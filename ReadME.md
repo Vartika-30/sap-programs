@@ -5,7 +5,7 @@
 A basic calculator developed using SAP ABAP.
 
 ## Features
-- Addition
+- Addition.
 - Subtraction
 - Multiplication
 - Division
